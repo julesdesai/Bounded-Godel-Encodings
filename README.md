@@ -1,8 +1,8 @@
 # Bounded Gödel Encodings for LLM-Native Information Architecture
 
-## Executive Summary
+## Summary
 
-We propose a revolutionary approach to information architecture that abandons human-centric constraints in favor of systems optimized for Large Language Model (LLM) cognition. By adapting Gödel numbering to bounded arithmetic spaces, we create information systems where logical relationships are preserved as mathematical operations, enabling LLMs to perform reasoning through arithmetic rather than symbolic manipulation.
+A novel approach to information architecture that abandons human-centric constraints in favour of systems optimised for Large Language Model (LLM) cognition. By adapting Gödel numbering to bounded arithmetic spaces, one might create information systems where logical relationships are preserved as mathematical operations, enabling LLMs to perform reasoning through arithmetic rather than symbolic manipulation.
 
 **Key Innovation**: Transform knowledge representation from human-readable formats to machine-optimized numerical encodings that preserve logical structure while enabling arithmetic-based reasoning.
 
@@ -15,10 +15,10 @@ Traditional information systems are designed around human cognitive constraints:
 - **File hierarchies** assume spatial/visual organization needs
 - **URLs and hyperlinks** reflect sequential navigation patterns  
 - **Text-based search** requires language processing overhead
-- **Database schemas** prioritize human readability over logical efficiency
+- **Database schemas** prioritise human readability over logical efficiency
 - **Citation networks** use human-interpretable references
 
-These constraints become unnecessary—and potentially detrimental—when the primary consumer is an LLM rather than a human.
+These constraints likely become unnecessary—even potentially detrimental—when the primary target agent is an LLM rather than a human.
 
 ### The Opportunity
 
@@ -34,16 +34,16 @@ Yet current information architectures fail to leverage these strengths, instead 
 
 ### Classical Gödel Numbering
 
-Gödel's original approach assigns unique natural numbers to logical statements such that:
+Gödel's original approach (Gödel numbering) assigns unique natural numbers to logical statements such that:
 1. **Uniqueness**: Each statement gets exactly one number
 2. **Compositionality**: Logical operations map to arithmetic operations
 3. **Decidability**: Properties of statements become arithmetic properties of their numbers
 
 **Limitation**: Classical Gödel numbers grow exponentially large, becoming computationally intractable.
 
-### Our Innovation: Bounded Gödel Encodings
+### Possible Innovation: Bounded Gödel Encodings
 
-We adapt Gödel's core insights to bounded arithmetic spaces:
+One might consider adapting Gödel's core insights to bounded arithmetic spaces, thereby avoiding problems of massive Gödel numbers:
 
 **Key Principles**:
 1. **Modular Arithmetic**: Use operations in Z/nZ for large prime n (e.g., 2³¹-1)
