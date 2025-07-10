@@ -50,6 +50,7 @@ class FormalTheorem:
     # Processing metadata
     parse_timestamp: float = field(default_factory=time.time)
     validation_status: str = "pending"
+    file_path: str = ""  # Source file path for domain inference
 
 class LibraryParser(ABC):
     """Abstract base class for formal library parsers"""
